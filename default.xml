@@ -399,8 +399,8 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/SEAndroidAdmin" name="packages_apps_SEAndroidAdmin" remote="github" revision="frankie-r6" />
-  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" revision="frankie-r6" />
+  <project path="packages/apps/SEAndroidAdmin" name="packages_apps_SEAndroidAdmin" remote="github" revision="paosp" />
+  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" revision="paosp" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
@@ -490,7 +490,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk,tradefed" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs" />
-  <project path="system/core" name="platform_system_core" groups="pdk" remote="github" revision="frankie-r7" />
+  <project path="system/core" name="platform_system_core" groups="pdk" remote="github" revision="paosp" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
@@ -511,7 +511,7 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor" name="proprietary_vendor" remote="github" revision="lollipop"/>
-  <project path="vendor/frank" name="vendor_frank" remote="github" revision="frankie-r6"/>
+  <project path="vendor" name="proprietary_vendor" remote="github" revision="paosp"/>
+  <project path="vendor/paosp" name="vendor_paosp" remote="github" revision="paosp"/>
 
 </manifest>
